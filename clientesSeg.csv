@@ -1,0 +1,201 @@
+﻿Cliente,Genero,Edad,GastoR($),GastoI($),GastoM($)
+Juan Carlos,Masculino,19,15,39,2.6
+Jose,Masculino,21,15,81,5.4
+Maria,Femenino,20,16,6,0.38
+Rosa,Femenino,23,16,77,4.81
+Maria Esther,Femenino,31,17,40,2.35
+Antonio,Masculino,22,17,76,4.47
+Maria Luisa,Femenino,35,18,6,0.33
+Maria Teresa,Femenino,23,18,94,5.22
+Juan,Masculino,64,19,3,0.16
+Maria Elena,Femenino,30,19,72,3.79
+Ana Maria,Femenino,67,19,14,0.74
+Carlos Alberto,Masculino,35,19,99,5.21
+Maria del Carmen,Femenino,58,20,15,0.75
+Francisco,Masculino,24,20,77,3.85
+Juana,Femenino,37,20,13,0.65
+Miguel Angel,Masculino,22,20,79,3.95
+Pedro,Masculino,35,21,35,1.67
+Teresa,Femenino,20,21,66,3.14
+Nelida,Femenino,52,23,29,1.26
+Roberto,Masculino,35,23,98,4.26
+Carlos,Masculino,35,24,35,1.46
+Carmen,Femenino,25,24,73,3.04
+Margarita,Femenino,46,25,5,0.2
+Ana,Femenino,31,25,73,2.92
+Isabel,Femenino,54,28,14,0.5
+Maria Angelica,Femenino,29,28,82,2.93
+Alberto,Masculino,45,28,32,1.14
+Luis,Masculino,35,28,61,2.18
+Maria Rosa,Femenino,40,29,31,1.07
+Manuel,Masculino,23,29,87,3
+Olga,Femenino,60,30,4,0.13
+Elena,Femenino,21,30,73,2.43
+Elsa,Femenino,53,33,4,0.12
+Angela,Femenino,18,33,92,2.79
+Antonia,Femenino,49,33,14,0.42
+Jose Maria,Masculino,21,33,81,2.45
+Ramon,Masculino,42,34,17,0.5
+Miguel,Masculino,30,34,73,2.15
+Eduardo,Masculino,36,37,26,0.7
+Luisa,Femenino,20,37,75,2.03
+Juan Jose,Masculino,65,38,35,0.92
+Oscar,Masculino,24,38,92,2.42
+Josefa,Femenino,48,39,36,0.92
+Francisca,Femenino,31,39,61,1.56
+Maria Isabel,Femenino,49,39,28,0.72
+Catalina,Femenino,24,39,65,1.67
+Jorge,Masculino,50,40,55,1.38
+Hector,Masculino,27,40,47,1.18
+Elvira,Femenino,29,40,42,1.05
+Maria Antonia,Femenino,31,40,42,1.05
+Ramona,Femenino,49,42,52,1.24
+Sara,Femenino,33,42,60,1.43
+Jose Antonio,Masculino,31,43,54,1.26
+Enrique,Masculino,59,43,60,1.4
+Mercedes,Femenino,50,43,45,1.05
+Raul,Masculino,47,43,41,0.95
+Mario,Masculino,51,44,50,1.14
+Beatriz,Femenino,69,44,46,1.05
+Angel,Masculino,27,46,51,1.11
+Lucia,Femenino,53,46,46,1
+Juan Antonio,Masculino,70,46,56,1.22
+Ricardo,Masculino,19,46,55,1.2
+Esther,Femenino,67,47,52,1.11
+Lidia,Femenino,54,47,59,1.26
+Domingo,Masculino,63,48,51,1.06
+Alfredo,Masculino,18,48,59,1.23
+Julia,Femenino,43,48,50,1.04
+Irma,Femenino,68,48,48,1
+Delia,Femenino,19,48,59,1.23
+Nicolas,Masculino,32,48,47,0.98
+Jose Luis,Masculino,70,49,55,1.12
+Dora,Femenino,47,49,42,0.86
+Julio,Masculino,60,50,49,0.98
+Vicente,Masculino,60,50,56,1.12
+Alicia,Femenino,59,54,47,0.87
+Josefina,Femenino,26,54,54,1
+Victoria,Femenino,45,54,53,0.98
+Marta,Femenino,40,54,48,0.89
+Maria Ines,Femenino,23,54,52,0.96
+Juan Bautista,Masculino,49,54,42,0.78
+Matilde,Femenino,57,54,51,0.94
+Celia,Femenino,38,54,55,1.02
+Haydee,Femenino,67,54,41,0.76
+Susana,Femenino,46,54,44,0.81
+Yolanda,Femenino,21,54,57,1.06
+Rodolfo,Masculino,48,54,46,0.85
+Osvaldo,Masculino,55,57,58,1.02
+Clara,Femenino,22,57,55,0.96
+Emilio,Masculino,34,58,60,1.03
+Maria Mercedes,Femenino,50,58,46,0.79
+Ernesto,Masculino,68,59,55,0.93
+Gregorio,Masculino,18,59,41,0.69
+Alejandro,Masculino,48,60,49,0.82
+Amalia,Femenino,40,60,40,0.67
+Julio Cesar,Masculino,32,60,42,0.7
+Dominga,Femenino,24,60,52,0.87
+Raquel,Femenino,47,60,47,0.78
+Santiago,Masculino,27,60,50,0.83
+Andres,Masculino,48,61,42,0.69
+Irene,Femenino,20,61,49,0.8
+Angelica,Femenino,23,62,41,0.66
+Guillermo,Masculino,49,62,48,0.77
+Maria Magdalena,Femenino,67,62,59,0.95
+Norma,Femenino,26,62,55,0.89
+Luis Alberto,Masculino,49,62,56,0.9
+Hilda,Femenino,21,62,42,0.68
+Filomena,Femenino,66,63,50,0.79
+Amelia,Femenino,54,63,46,0.73
+Salvador,Masculino,68,63,43,0.68
+Pablo,Masculino,66,63,48,0.76
+Petrona,Femenino,65,63,52,0.83
+Emilia,Femenino,19,63,54,0.86
+Victor,Masculino,38,64,42,0.66
+Felipe,Masculino,19,64,46,0.72
+Armando,Masculino,18,65,48,0.74
+Adela,Femenino,19,65,50,0.77
+Concepcion,Femenino,63,65,43,0.66
+Aurora,Femenino,49,65,59,0.91
+Elba,Femenino,51,67,43,0.64
+Marcelina,Femenino,50,67,57,0.85
+Dolores,Femenino,27,67,56,0.84
+Juana Rosa,Femenino,38,67,40,0.6
+Sofia,Femenino,40,69,58,0.84
+Elisa,Femenino,39,69,91,1.32
+Paulina,Femenino,23,70,29,0.41
+Juan Manuel,Masculino,31,70,77,1.1
+Vicenta,Femenino,43,71,35,0.49
+Rafael,Masculino,40,71,95,1.34
+Jorge Alberto,Masculino,59,71,11,0.15
+Zulema,Femenino,38,71,75,1.06
+Nelida Esther,Femenino,47,71,9,0.13
+Martha,Femenino,39,71,75,1.06
+Magdalena,Femenino,25,72,34,0.47
+Maria Ester,Femenino,31,72,71,0.99
+Adolfo,Masculino,20,73,5,0.07
+Norberto,Masculino,29,73,88,1.21
+Maria Josefa,Femenino,44,73,7,0.1
+Martin,Masculino,32,73,73,1
+Agustin,Masculino,19,74,10,0.14
+Rosario,Femenino,35,74,72,0.97
+Ines,Femenino,57,75,5,0.07
+Blanca Rosa,Femenino,32,75,93,1.24
+Leonor,Femenino,28,76,40,0.53
+Rosa Maria,Femenino,32,76,87,1.14
+Berta,Femenino,25,77,12,0.16
+Horacio,Masculino,28,77,97,1.26
+Felisa,Femenino,48,77,36,0.47
+Juan Alberto,Masculino,32,77,74,0.96
+Maria Angela,Femenino,34,78,22,0.28
+Nelly,Femenino,34,78,90,1.15
+Marcelino,Masculino,43,78,17,0.22
+Aida,Femenino,39,78,88,1.13
+Felix,Masculino,44,78,20,0.26
+Eugenia,Femenino,38,78,76,0.97
+Elida,Femenino,47,78,16,0.21
+Rosalia,Femenino,27,78,89,1.14
+Esteban,Masculino,37,78,1,0.01
+Juan Ramon,Masculino,30,78,78,1
+Maria Cristina,Femenino,34,78,1,0.01
+Juan Pedro,Masculino,30,78,73,0.94
+Ruben,Masculino,56,79,35,0.44
+Juana Maria,Femenino,29,79,83,1.05
+Marcos,Masculino,19,81,5,0.06
+David,Masculino,31,81,93,1.15
+Tomas,Masculino,50,85,26,0.31
+Jose Manuel,Masculino,36,85,75,0.88
+Maria Nelida,Femenino,42,86,20,0.23
+Nilda,Femenino,33,86,95,1.1
+Orlando,Masculino,36,87,27,0.31
+Daniel,Masculino,32,87,63,0.72
+Gregoria,Femenino,40,87,13,0.15
+Elsa Maria,Femenino,28,87,75,0.86
+Lorenzo,Masculino,36,87,10,0.11
+Humberto,Masculino,36,87,92,1.06
+Jose Alberto,Masculino,52,88,13,0.15
+Luis Angel,Masculino,30,88,86,0.98
+Maria Carmen,Femenino,58,88,15,0.17
+Bernardo,Masculino,27,88,69,0.78
+Eva,Femenino,59,93,14,0.15
+Norma Beatriz,Femenino,35,93,90,0.97
+Cecilia,Femenino,37,97,32,0.33
+Maria Dolores,Femenino,32,97,86,0.89
+Natividad,Femenino,46,98,15,0.15
+Manuela,Femenino,29,98,88,0.9
+Luis Maria,Masculino,41,99,39,0.39
+Carmela,Femenino,30,99,97,0.98
+Oscar Alberto,Masculino,54,101,24,0.24
+Ignacio,Masculino,28,101,68,0.67
+Maria Haydee,Femenino,41,103,17,0.17
+Adelina,Femenino,36,103,85,0.83
+Ofelia,Femenino,34,103,23,0.22
+Elsa Beatriz,Femenino,32,103,69,0.67
+Fernando,Masculino,33,113,8,0.07
+Martha Beatriz,Femenino,38,113,91,0.81
+Tomasa,Femenino,47,120,16,0.13
+Laura,Femenino,35,120,79,0.66
+Hector Oscar,Masculino,45,126,28,0.22
+Maria del Valle,Femenino,32,126,74,0.59
+Maria Elsa,Femenino,32,137,18,0.13
+Florencio,Masculino,30,137,83,0.61
